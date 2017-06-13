@@ -10,10 +10,6 @@ public class Even {
 		System.out.println("even");
 		
 	}
-	else
-	if(a==0)
-	{
-	System.out.println("zero");}
 	else {
 		System.out.println("odd");
 	}
